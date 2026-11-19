@@ -9,7 +9,8 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌍 Global Payments Intelligence Platform")
+
+st.title("🌍 Global Payments Intelligence Platform V1")
 
 st.markdown("""
 Monitor RBI, NPCI, SWIFT and BIS publications,
