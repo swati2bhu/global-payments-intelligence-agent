@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "name": "RBI Notifications",
+      "category": "Regulatory",
+      "priority": "High",
+      "url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx"
+    },
+    {
+      "name": "RBI Circular Index",
+      "category": "Regulatory",
+      "priority": "High",
+      "url": "https://www.rbi.org.in/scripts/BS_CircularIndexDisplay.aspx"
+    },
+    {
+      "name": "NPCI UPI Circulars",
+      "category": "UPI",
+      "priority": "High",
+      "url": "https://www.npci.org.in/circulars/upi"
+    },
+    {
+      "name": "NPCI Circulars",
+      "category": "Payments",
+      "priority": "High",
+      "url": "https://www.npci.org.in/circulars"
+    },
+    {
+      "name": "SWIFT News",
+      "category": "Cross Border",
+      "priority": "High",
+      "url": "https://www.swift.com/insights/news"
+    },
+    {
+      "name": "SWIFT Press Releases",
+      "category": "Cross Border",
+      "priority": "Medium",
+      "url": "https://www.swift.com/about-us/media-centre/press-releases"
+    },
+    {
+      "name": "BIS CPMI Publications",
+      "category": "Payments Infrastructure",
+      "priority": "Medium",
+      "url": "https://www.bis.org/committees/cpmi/publications"
+    },
+    {
+      "name": "BIS ISO20022 Publications",
+      "category": "ISO20022",
+      "priority": "Medium",
+      "url": "https://www.bis.org/publications/harmonised-iso-20022-data-requirements-enhancing-cross-border-payments-updated-report"
+    },
+   {
+      
+     "name": "BIS Working Paper",
+     "category": "Research",
+     "priority": "Medium",
+     "url": "https://www.bis.org/publ/work.htm"
+    }
+    
+
+  ]
+}

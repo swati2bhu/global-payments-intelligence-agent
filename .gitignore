@@ -1,17 +1,43 @@
-# Virtual Environment
+# Virtual environment
 venv/
-
-# IDE files
-.idea/
-.vscode/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Streamlit
-.streamlit/
+# Downloads
+downloads/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Generated files
+processed/
+inventory/
+
+# Local AI files
+*.faiss
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+# IDE files
+.idea/
+
+# Generated analysis files
+processed_*.txt
+
+# Runtime folders
+downloads/
+processed/
+inventory/
+snapshots/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
